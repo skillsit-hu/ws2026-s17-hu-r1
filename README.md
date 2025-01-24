@@ -8,11 +8,11 @@ Ebben a fordulóban egy weblapfejlesztési feladatot kell elvégezned. Az otthon
 
 A beküldött feladatokat értékeljük. Ezt követően 6 versenyzőt választunk ki, ők mérkőzhetnek majd meg egymással az egynapos középdöntőben. (A középdöntő várható időpontja 2025. 04. 05, szombat.)
 
-#### A feladat
+## A feladat
 
-A feladat leírását ebben a repoban, az [ws2026-s17-hu-r1.md](ws2026-s17-hu-r1.md) fájlban találod.
+A feladat leírását ebben a repoban, a [ws2026-s17-hu-r1.md](ws2026-s17-hu-r1.md) fájlban találod.
 
-#### A feladat beadásának módja és határideje:
+### A feladat beadásának módja
 
 A feladatot kétféle formában kell beadnod:
 
@@ -30,7 +30,7 @@ A feladatot kétféle formában kell beadnod:
 
    c. A választott hostnevet (amin a weblapodat elérjük) írd be a repo README file-jának első sorába. A második sorba írd be a kapott azonosítódat, a harmadikba pedig a nevedet.
 
-#### Határidő
+### Határidő
 
 A feladatok elkészítésének végső határideje: **2025. 02. 25., kedd, éjfél**
 
